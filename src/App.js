@@ -10,7 +10,10 @@ export default function App() {
       <main>
         <Dictionary />
       </main>
-      <footer>Coded by Lyndsey Thompson</footer>
+      <footer>
+        <a href="https://github.com/linzjane/dictionary-app">Coded</a> by{" "}
+        <a href="https://lyndsey-thompson.netlify.app/">Lyndsey Thompson</a>
+      </footer>
     </div>
   );
 }
