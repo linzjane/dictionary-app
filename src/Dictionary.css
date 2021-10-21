@@ -1,6 +1,6 @@
-form {
-  text-align: center;
-}
-p {
+form,
+p,
+h2,
+h3 {
   text-align: center;
 }
