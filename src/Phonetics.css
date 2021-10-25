@@ -1,0 +1,10 @@
+.Phonetic {
+  text-align: center;
+}
+.Phonetic-Text {
+  margin-left: 10px;
+}
+.Audio,
+a {
+  color: #9776f0;
+}
