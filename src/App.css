@@ -1,7 +1,7 @@
 .App {
   background: #f9f7fe;
   max-width: 800px;
-  margin-left: 250px;
+  margin: 0 auto;
 }
 h1 {
   text-align: center;
